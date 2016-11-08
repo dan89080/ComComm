@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\Files\105to106 專題\ComComm\ComComm\bin\Debug\ComComm.exe.config
+C:\Users\ASUS\Desktop\Files\105to106 專題\ComComm\ComComm\bin\Debug\ComComm.exe
+C:\Users\ASUS\Desktop\Files\105to106 專題\ComComm\ComComm\bin\Debug\ComComm.pdb
+C:\Users\ASUS\Desktop\Files\105to106 專題\ComComm\ComComm\obj\Debug\ComComm.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Files\105to106 專題\ComComm\ComComm\obj\Debug\ComComm.ComComm_Page.resources
+C:\Users\ASUS\Desktop\Files\105to106 專題\ComComm\ComComm\obj\Debug\ComComm.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Files\105to106 專題\ComComm\ComComm\obj\Debug\ComComm.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Files\105to106 專題\ComComm\ComComm\obj\Debug\ComComm.exe
+C:\Users\ASUS\Desktop\Files\105to106 專題\ComComm\ComComm\obj\Debug\ComComm.pdb
+C:\Users\ASUS\Desktop\Files\105to106 專題\ComComm\ComComm\obj\Debug\Info_puart_control.Info_puart_control_Page.resources
+C:\Users\ASUS\Desktop\Files\105to106 專題\ComComm\ComComm\obj\Debug\Info_hello_client.Info_hello_client_Page.resources
+C:\Users\ASUS\Desktop\Files\105to106 專題\ComComm\ComComm\obj\Debug\Info_hello_sensor.Info_hello_sensor_Page.resources
