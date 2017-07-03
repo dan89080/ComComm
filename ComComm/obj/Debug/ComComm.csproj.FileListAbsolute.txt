@@ -10,3 +10,27 @@ C:\Users\ASUS\Desktop\Files\105to106 專題\ComComm\ComComm\obj\Debug\ComComm.pd
 C:\Users\ASUS\Desktop\Files\105to106 專題\ComComm\ComComm\obj\Debug\Info_puart_control.Info_puart_control_Page.resources
 C:\Users\ASUS\Desktop\Files\105to106 專題\ComComm\ComComm\obj\Debug\Info_hello_client.Info_hello_client_Page.resources
 C:\Users\ASUS\Desktop\Files\105to106 專題\ComComm\ComComm\obj\Debug\Info_hello_sensor.Info_hello_sensor_Page.resources
+D:\Files\105to106 專題\ComComm\ComComm\bin\Debug\ComComm.exe.config
+D:\Files\105to106 專題\ComComm\ComComm\obj\Debug\ComComm.exe
+D:\Files\105to106 專題\ComComm\ComComm\obj\Debug\ComComm.pdb
+D:\Files\105to106 專題\ComComm\ComComm\bin\Debug\ComComm.exe
+D:\Files\105to106 專題\ComComm\ComComm\bin\Debug\ComComm.pdb
+D:\Files\105to106 專題\ComComm\ComComm\obj\Debug\ComComm.csprojResolveAssemblyReference.cache
+D:\Files\105to106 專題\ComComm\ComComm\obj\Debug\ComComm.ComComm_Page.resources
+D:\Files\105to106 專題\ComComm\ComComm\obj\Debug\ComComm.Properties.Resources.resources
+D:\Files\105to106 專題\ComComm\ComComm\obj\Debug\Info_puart_control.Info_puart_control_Page.resources
+D:\Files\105to106 專題\ComComm\ComComm\obj\Debug\Info_hello_client.Info_hello_client_Page.resources
+D:\Files\105to106 專題\ComComm\ComComm\obj\Debug\Info_hello_sensor.Info_hello_sensor_Page.resources
+D:\Files\105to106 專題\ComComm\ComComm\obj\Debug\ComComm.csproj.GenerateResource.Cache
+D:\Files\105to106 專題\ComComm v2\ComComm\bin\Debug\ComComm.exe.config
+D:\Files\105to106 專題\ComComm v2\ComComm\obj\Debug\ComComm.exe
+D:\Files\105to106 專題\ComComm v2\ComComm\obj\Debug\ComComm.pdb
+D:\Files\105to106 專題\ComComm v2\ComComm\bin\Debug\ComComm.exe
+D:\Files\105to106 專題\ComComm v2\ComComm\bin\Debug\ComComm.pdb
+D:\Files\105to106 專題\ComComm v2\ComComm\obj\Debug\ComComm.csprojResolveAssemblyReference.cache
+D:\Files\105to106 專題\ComComm v2\ComComm\obj\Debug\ComComm.ComComm_Page.resources
+D:\Files\105to106 專題\ComComm v2\ComComm\obj\Debug\ComComm.Properties.Resources.resources
+D:\Files\105to106 專題\ComComm v2\ComComm\obj\Debug\Info_puart_control.Info_puart_control_Page.resources
+D:\Files\105to106 專題\ComComm v2\ComComm\obj\Debug\Info_hello_client.Info_hello_client_Page.resources
+D:\Files\105to106 專題\ComComm v2\ComComm\obj\Debug\Info_hello_sensor.Info_hello_sensor_Page.resources
+D:\Files\105to106 專題\ComComm v2\ComComm\obj\Debug\ComComm.csproj.GenerateResource.Cache
